@@ -1,1 +1,2 @@
 # cherrity
+# cherrity-intensive
